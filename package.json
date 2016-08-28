@@ -1,0 +1,20 @@
+{
+  "name": "atom-catberry",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "Show files in catberry component folder",
+  "keywords": [
+	  "catberry", "atom"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-catberry:show-files"
+  },
+  "repository": "https://github.com/karambaJob/atom-catberry",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+	  "atom-space-pen-views": "^2.0.3"
+  }
+}
