@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-	"ctrl-shift-space": "atom-catberry:show-files"
+	"ctrl-shift-space": "atom-catberry:show-files",
+  "ctrl-alt-space": "atom-catberry:show-component-uses"
   }
 }
