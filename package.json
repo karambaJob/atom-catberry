@@ -2,7 +2,7 @@
   "name": "atom-catberry",
   "main": "./lib/main",
   "version": "0.0.1",
-  "description": "Show files in catberry component folder",
+  "description": "Little helper for catberry components",
   "keywords": [
 	  "catberry", "atom"
   ],
