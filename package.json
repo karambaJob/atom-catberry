@@ -1,13 +1,13 @@
 {
   "name": "atom-catberry",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Little helper for catberry components",
   "keywords": [
-	  "catberry", "atom"
+    "catberry",
+    "atom"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-catberry:show-files",
     "atom-workspace": "atom-catberry:show-component-uses"
   },
   "repository": "https://github.com/karambaJob/atom-catberry",
@@ -16,6 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-	  "atom-space-pen-views": "^2.0.3"
+    "atom-space-pen-views": "^2.0.3"
   }
 }
