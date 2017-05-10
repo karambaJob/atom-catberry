@@ -8,7 +8,7 @@
     "atom"
   ],
   "activationCommands": {
-    "atom-workspace": "atom-catberry:show-component-uses"
+	  "atom-workspace": ["atom-catberry:show-component-uses", "atom-catberry:show-files"]
   },
   "repository": "https://github.com/karambaJob/atom-catberry",
   "license": "MIT",
